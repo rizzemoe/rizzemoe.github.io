@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43e10d6d.css",
+    "main.js": "/static/js/main.0ef10b59.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/FVid2.mp4": "/static/media/FVid2.2b42e2d2181dc93957c0.mp4",
+    "static/media/mv2.mp4": "/static/media/mv2.2852ac692b0fa0a85021.mp4",
+    "static/media/SlimeCleaned.mp4": "/static/media/SlimeCleaned.9b791a7a5dc9e32092f1.mp4",
+    "static/media/PostScreen.mp4": "/static/media/PostScreen.b1f77b3c5de0e6790fb8.mp4",
+    "static/media/SlimeDesk.mp4": "/static/media/SlimeDesk.03391cb8636549a62a79.mp4",
+    "static/media/MainGame.mp4": "/static/media/MainGame.49900ad692469790364f.mp4",
+    "static/media/Fluid.mp4": "/static/media/Fluid.c1cc65ecc2136bba400f.mp4",
+    "static/media/HCVid.mp4": "/static/media/HCVid.d11bf48ee115cd289e40.mp4",
+    "static/media/Vid.mp4": "/static/media/Vid.cb7c933c5f896661404d.mp4",
+    "static/media/4player.mp4": "/static/media/4player.eb8af243fde26c2b234f.mp4",
+    "static/media/holeInOne.mp4": "/static/media/holeInOne.f09b28ea5a8560b5aa87.mp4",
+    "static/media/HalfCutTrans.mp4": "/static/media/HalfCutTrans.4e0437ba85e61a6f85c2.mp4",
+    "static/media/Beerpong.mp4": "/static/media/Beerpong.9a6a9a91452c222f581b.mp4",
+    "static/media/3dScan.mp4": "/static/media/3dScan.386179cee47bad4a936f.mp4",
+    "static/media/FB.mp4": "/static/media/FB.c2f55f4c56bcf6f08edd.mp4",
+    "static/media/SC.png": "/static/media/SC.5663db2b17637a7f296e.png",
+    "static/media/FISHI.png": "/static/media/FISHI.ce5da1d5772cfd947b6c.png",
+    "static/media/Net.png": "/static/media/Net.392d936a6b785ed111eb.png",
+    "static/media/4pSC.png": "/static/media/4pSC.b768bcc6515961865dc4.png",
+    "static/media/MainMeny.png": "/static/media/MainMeny.2088e742c75b174263a7.png",
+    "static/media/MainGame.png": "/static/media/MainGame.793c9eb54494eabaf2ea.png",
+    "static/media/IMG_2919Wide.png": "/static/media/IMG_2919Wide.cc507505e77e74b6240a.png",
+    "index.html": "/index.html",
+    "main.43e10d6d.css.map": "/static/css/main.43e10d6d.css.map",
+    "main.0ef10b59.js.map": "/static/js/main.0ef10b59.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e10d6d.css",
+    "static/js/main.0ef10b59.js"
+  ]
+}
